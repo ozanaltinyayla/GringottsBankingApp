@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GringottsBankingApp.Core\GringottsBankingApp.Core.csproj" />
+    <ProjectReference Include="..\GringottsBankingApp.Data\GringottsBankingApp.Data.csproj" />
+  </ItemGroup>
+
+</Project>
